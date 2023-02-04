@@ -1,0 +1,34 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "针对单接口的测试",
+    "children" : [ {
+      "name" : "登录功能",
+      "children" : [ {
+        "name" : "登录-成功登录",
+        "children" : [ {
+          "name" : "测试数据:username = tome, password = 111111",
+          "uid" : "8052189802c04189",
+          "parentUid" : "08c9d84800987dd082b14e84a573cd6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1675476152789,
+            "stop" : 1675476154880,
+            "duration" : 2091
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "08c9d84800987dd082b14e84a573cd6e"
+      } ],
+      "uid" : "580fda8dd5aded87a8ffd6dba3e0ad2e"
+    } ],
+    "uid" : "cd845af8967036199dcd8e98dbcf7b78"
+  } ]
+}

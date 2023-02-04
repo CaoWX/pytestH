@@ -1,0 +1,30 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-74ISGRN",
+    "children" : [ {
+      "name" : "29440-MainThread",
+      "children" : [ {
+        "name" : "测试数据:username = tome, password = 111111",
+        "uid" : "8052189802c04189",
+        "parentUid" : "f862f9c914869f3bd9cdb918153345c4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1675476152789,
+          "stop" : 1675476154880,
+          "duration" : 2091
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f862f9c914869f3bd9cdb918153345c4"
+    } ],
+    "uid" : "ac683e3db39a4e403d521f09634abb2d"
+  } ]
+}

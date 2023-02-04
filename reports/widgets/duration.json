@@ -1,0 +1,11 @@
+[ {
+  "uid" : "8052189802c04189",
+  "name" : "测试数据:username = tome, password = 111111",
+  "time" : {
+    "start" : 1675476152789,
+    "stop" : 1675476154880,
+    "duration" : 2091
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
